@@ -1,0 +1,4 @@
+﻿  10809.c
+C:\Users\유성진\OneDrive\바탕 화면\김서현\0905\10809\10809.c(8,2): warning C4013: 'memset'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\유성진\OneDrive\바탕 화면\김서현\0905\10809\10809.c(11,15): warning C4013: 'strlen'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  10809.vcxproj -> C:\Users\유성진\OneDrive\바탕 화면\김서현\0905\x64\Debug\10809.exe
