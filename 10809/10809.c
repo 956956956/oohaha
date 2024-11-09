@@ -17,3 +17,4 @@ int main() {
 		printf("%d ", index[i]);
 	}
 }
+//hehe
